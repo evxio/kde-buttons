@@ -1,0 +1,4 @@
+content   closebutton   chrome/chromeFiles/content/
+
+overlay   chrome://browser/content/browser.xul   chrome://closebutton/content/closebutton.xul
+locale    closebutton   en-US   chrome/chromeFiles/locale/en-US/
